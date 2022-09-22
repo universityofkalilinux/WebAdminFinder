@@ -26,8 +26,11 @@ Why only WebAdminFinder?
 
 Connect:
 https://web.facebook.com/the.university.of.kali.linux
+
 https://web.facebook.com/groups/the.university.of.kali.linux
+
 https://t.me/+mqYLH-xCTGg1ZjRl
+
 https://t.me/+krkYxensbb9iNjM1
 
 Closing:
