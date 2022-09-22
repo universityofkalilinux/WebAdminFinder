@@ -24,8 +24,11 @@ Why only WebAdminFinder?
 2. Fast and Efficent.
 3. Easy to use.
 
-Connect: 
-University of Kali Linux
+Connect:
+https://web.facebook.com/the.university.of.kali.linux
+https://web.facebook.com/groups/the.university.of.kali.linux
+https://t.me/+mqYLH-xCTGg1ZjRl
+https://t.me/+krkYxensbb9iNjM1
 
 Closing:
 Thanks for using this tool.
