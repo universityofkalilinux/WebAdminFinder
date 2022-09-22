@@ -3,7 +3,7 @@ Find the website admin panel. This tool is very useful to find admin panel of we
 
 To usage:
 $ sudo apt update
-$ git clone 
+$ git clone https://github.com/universityofkalilinux/WebAdminFinder.git
 $ cd WebAdminFinder
 $ chmod +x WebAdminFinder.py
 $ python3 WebAdminFinder.py -h
