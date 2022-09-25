@@ -31,16 +31,11 @@ Why only WebAdminFinder?
 2. Fast and Efficent.
 3. Easy to use.
 
-Connect:
+Coffee | Trip:
 
-https://web.facebook.com/the.university.of.kali.linux
+https://ko-fi.com/universityofkalilinux
 
-https://web.facebook.com/groups/the.university.of.kali.linux
-
-https://t.me/+mqYLH-xCTGg1ZjRl
-
-https://t.me/+krkYxensbb9iNjM1
-
+https://www.buymeacoffee.com/u_ofkalilinux
 
 Closing:
 
